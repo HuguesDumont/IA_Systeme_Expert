@@ -1,6 +1,6 @@
-#Base de faits
+﻿#Base de faits
 
-#Base de r�gles
+#Base de règles
 SI poils ET temperConstante ET pattes = 4 ET poumons ET NOT branchies ET allaite ALORS mammifere terrestre
 Si temperConstante ET poumons ET NOT branchies ET allaite ET vertebre ALORS mammifere marin
 SI plumes ET temperConstante ET pattes = 2 et ailes ET poumons ET NOT branchies ET ovipare ET couve ALORS oiseau
